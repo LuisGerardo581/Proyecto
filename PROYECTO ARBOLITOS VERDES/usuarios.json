@@ -1,0 +1,84 @@
+[
+    {
+        "nombre": "Marisol Rivera",
+        "correo": "Patrona@tec.com",
+        "contrasena": "cardenas",
+        "amigos": [
+            "Prohibido@tec.com",
+            "SmartFit@tec.com",
+            "Pelusa@tec.com",
+            "Honda@tec.com"
+        ]
+    },
+    {
+        "nombre": "Luis Gerardo",
+        "correo": "Prohibido@tec.com",
+        "contrasena": "123",
+        "amigos": [
+            "Gabo@tec.com",
+            "Patrona@tec.com",
+            "SmartFit@tec.com",
+            "Pelusa@tec.com",
+            "Honda@tec.com"
+        ]
+    },
+    {
+        "nombre": "Gabriel Mar",
+        "correo": "Gabo@tec.com",
+        "contrasena": "12345",
+        "amigos": [
+            "Prohibido@tec.com",
+            "SmartFit@tec.com",
+            "Pelusa@tec.com",
+            "Honda@tec.com"
+        ]
+    },
+    {
+        "nombre": "Uriel Camacho",
+        "correo": "SmartFit@tec.com",
+        "contrasena": "321",
+        "amigos": [
+            "Prohibido@tec.com",
+            "Gabo@tec.com",
+            "Patrona@tec.com",
+            "Pelusa@tec.com",
+            "Honda@tec.com"
+        ]
+    },
+    {
+        "nombre": "Guadalupe Medellin",
+        "correo": "Pelusa@tec.com",
+        "contrasena": "carlos",
+        "amigos": [
+            "Prohibido@tec.com",
+            "SmartFit@tec.com",
+            "Gabo@tec.com",
+            "Patrona@tec.com",
+            "Honda@tec.com"
+        ]
+    },
+    {
+        "nombre": "Heriberto Lucio",
+        "correo": "Honda@tec.com",
+        "contrasena": "max",
+        "amigos": [
+            "Prohibido@tec.com",
+            "Gabo@tec.com",
+            "SmartFit@tec.com",
+            "Patrona@tec.com",
+            "Pelusa@tec.com"
+        ]
+    },
+    {
+        "nombre": "Prof Jaime",
+        "correo": "Jaime@tec.com",
+        "contrasena": "1234",
+        "amigos": []
+    },
+    {
+        "nombre": "Carlos Medellin",
+        "correo": "Agronomo@tec.com",
+        "contrasena": "agronomia",
+        "amigos": []
+    }
+]
